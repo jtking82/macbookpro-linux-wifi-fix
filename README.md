@@ -93,7 +93,7 @@ nmcli device status
 nmcli device wifi list
 ```
 
-The original successful session showed `wlp3s0` and `phy0`; interface names may differ. See [troubleshooting](docs/troubleshooting.md) if the interface or 5 GHz networks do not appear.
+The original successful session showed `wlp3s0` and `phy0`; interface names may differ. Follow the [post-install verification checklist](docs/verification.md) to check radio state, scan for access points, connect safely, and test basic connectivity. See [troubleshooting](docs/troubleshooting.md) if the interface or 5 GHz networks do not appear.
 
 ## License
 
